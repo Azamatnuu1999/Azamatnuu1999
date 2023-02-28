@@ -1,4 +1,4 @@
-<img src='https://pbs.twimg.com/media/DpFIOQuXgAA59gJ?format=jpg&name=medium'>
+<img src='https://pbs.twimg.com/media/DpFIOQuXgAA59gJ?format=jpg&name=medium' height='50px'>
 # Hi, my name is Azamat!
 
 ---
