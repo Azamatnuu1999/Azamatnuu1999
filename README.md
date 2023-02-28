@@ -29,17 +29,3 @@ After finishing courses, I start to study from internet and practicing new proje
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass" width="40" height="40"/>&nbsp
 </div>
 
----
-
-### ⚙️ GitHub statistics:
-
-<table>
-  <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Azamatnuu1999&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Azamatnuu1999&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
