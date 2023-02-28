@@ -1,5 +1,5 @@
 <img src='https://grupneoci.com/images/articles/informatica.jpg'>
-# Hi, my name is <b>Azamat</b>!
+# <i>Hi, my name is <b>Azamat</b>!</i>
 
 ---
 
