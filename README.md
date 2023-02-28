@@ -1,4 +1,4 @@
-<img src='https://pbs.twimg.com/media/DpFIOQuXgAA59gJ?format=jpg&name=medium' height='50px'>
+<img src='[https://pbs.twimg.com/media/DpFIOQuXgAA59gJ?format=jpg&name=medium](https://grupneoci.com/images/articles/informatica.jpg)'>
 # Hi, my name is Azamat!
 
 ---
