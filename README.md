@@ -14,6 +14,8 @@ After finishing courses, I start to study from internet and practicing new proje
 
 - :zap: I love coding.
 
+- :bomb: My website.
+
 - :mailbox: How to contact with me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/nexto_0) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:createaah@gmail.com)
 
 ---
