@@ -5,7 +5,7 @@
 
 ### :man_technologist: About me:
 
-<i>I am a HTML developer (Joke :D) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. I've been studying frontend development since 2022. At first I studied at <img src="https://telegra.ph/file/d84c8d56341f10b9d0522.jpg" width="60px"><b>PDP onlice courses</b> about 3months. After, I decided to study offline courses at <b>Albison academy</b> which was taught me to do more self study in free time. 
+<i>I am a HTML developer (Joke :D) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. I've been studying frontend development since 2022. At first I studied at <img src="https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=183621315476616" width="60px"><b>PDP onlice courses</b> about 3months. After, I decided to study offline courses at <b>Albison academy</b> which was taught me to do more self study in free time. 
 After finishing courses, I start to study from internet and practicing new projects which I saw from youtube.</i>
 
 - :telescope: I continue to learn new things!
