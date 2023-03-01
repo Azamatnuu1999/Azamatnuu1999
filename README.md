@@ -5,7 +5,7 @@
 
 ### :man_technologist: About me:
 
-<i>I am a HTML developer (Joke :D) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. I've been studying frontend development since 2022. At first I studied at <img src="https://sun6-20.userapi.com/s/v1/ig1/uOg09NPqFufjC9tmSr__jFaOzGSRDBHBenKttdPqEYkJk3s4KSTHf-RqwnvkovAqGeSWUM57.jpg?size=598x598&quality=96&crop=21,21,598,598&ava=1" width="15px"><b> PDP onlice courses</b> about 3months. After, I decided to study offline courses at  <img src="https://yt3.googleusercontent.com/Xco62rK8f2a1GaXJw1h7D_Ub7zIECmgYz4LtMf5EIAGWkf4hNhc4enbZ9imBr9R4ffXJVSBvnw=s900-c-k-c0x00ffffff-no-rj" width="25px"><b> Albison academy</b> which was taught me to do more self study in free time. 
+<i>I am a HTML developer (Joke :D) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. I've been studying frontend development since 2022. At first I studied at <img src="https://sun6-20.userapi.com/s/v1/ig1/uOg09NPqFufjC9tmSr__jFaOzGSRDBHBenKttdPqEYkJk3s4KSTHf-RqwnvkovAqGeSWUM57.jpg?size=598x598&quality=96&crop=21,21,598,598&ava=1" width="15px"><b> PDP onlice courses</b> about 3months. After, I decided to study offline courses at  <img src="https://yt3.googleusercontent.com/Xco62rK8f2a1GaXJw1h7D_Ub7zIECmgYz4LtMf5EIAGWkf4hNhc4enbZ9imBr9R4ffXJVSBvnw=s900-c-k-c0x00ffffff-no-rj" width="15px"><b> Albison academy</b> which was taught me to do more self study in free time. 
 After finishing courses, I start to study from internet and practicing new projects which I saw from youtube.</i>
 
 - :telescope: I continue to learn new things!
