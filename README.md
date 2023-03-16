@@ -10,7 +10,7 @@ After finishing courses, I start to study from internet and practicing new proje
 
 - :telescope: I continue to learn new things!
 
-- :seedling: I want to be a company's member where I can contribute to the development of the company.
+- :seedling: I want to be a company's member where I can contribute to the development of the company. 
 
 - :zap: I love coding.
 
