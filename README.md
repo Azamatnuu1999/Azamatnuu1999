@@ -1,6 +1,6 @@
 <img src='https://grupneoci.com/images/articles/informatica.jpg'>  
 # <i>Hi, my name is <b>Azamat</b>!</i>       
-         
+          
 ---        
   
 ### :man_technologist: About me:             
