@@ -1,3 +1,4 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azamatnuu1999&text_color=ffffff&text_bold=true&title_color=e3289c&bg_color=2b213a&card_width=870%)](https://github.com/Azamatnuu1999/)
 <img src='https://grupneoci.com/images/articles/informatica.jpg'>  
 # <i>Hi, my name is <b>Azamat</b>!</i>         
                
